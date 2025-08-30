@@ -31,8 +31,3 @@ NetBeans IDE
 > This project was created as part of my ITI training program.
 
 
-
-
----
-
-تحبي أعملهالك نسخة جاهزة بإنجليزي + أحطلك فيه شوية emoji و هاشتاجات مناسبة عشان تنسخيها زي ما هي في الـ README؟
