@@ -21,13 +21,4 @@ Java
 NetBeans IDE
 
 
-
-
-
-
-
-
-
 > This project was created as part of my ITI training program.
-
-
