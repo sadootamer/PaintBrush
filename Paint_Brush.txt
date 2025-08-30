@@ -1,0 +1,27 @@
+
+
+package com.mycompany.paint_brush;
+
+import java.awt.Color;
+import javax.swing.JFrame;
+
+public class Paint_Brush {
+
+    public static void main(String[] args) {
+   
+
+
+
+        JFrame f =new JFrame();
+        Panel panel =new Panel();
+        f.setContentPane(panel);
+        f.setSize(500, 500);
+        f.setTitle(" Paint Brush App ");
+        f.setVisible(true);
+        panel.setBackground( Color.WHITE);
+        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        f.setLocationRelativeTo(null);
+    }
+    
+}
+   
